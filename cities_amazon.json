@@ -1,0 +1,597 @@
+[
+    {
+        "cidade": "Cruzeiro do Sul",
+        "estado": "Acre",
+        "id": 120020
+    },
+    {
+        "cidade": "Rio Branco",
+        "estado": "Acre",
+        "id": 120040
+    },
+    {
+        "cidade": "Macapá",
+        "estado": "Amapá",
+        "id": 160030
+    },
+    {
+        "cidade": "Santana",
+        "estado": "Amapá",
+        "id": 160060
+    },
+    {
+        "cidade": "Careiro da Várzea",
+        "estado": "Amazonas",
+        "id": 130115
+    },
+    {
+        "cidade": "Coari",
+        "estado": "Amazonas",
+        "id": 130120
+    },
+    {
+        "cidade": "Humaitá",
+        "estado": "Amazonas",
+        "id": 130170
+    },
+    {
+        "cidade": "Iranduba",
+        "estado": "Amazonas",
+        "id": 130185
+    },
+    {
+        "cidade": "Itacoatiara",
+        "estado": "Amazonas",
+        "id": 130190
+    },
+    {
+        "cidade": "Manacapuru",
+        "estado": "Amazonas",
+        "id": 130250
+    },
+    {
+        "cidade": "Manaus",
+        "estado": "Amazonas",
+        "id": 130260
+    },
+    {
+        "cidade": "Manicoré",
+        "estado": "Amazonas",
+        "id": 130270
+    },
+    {
+        "cidade": "Maués",
+        "estado": "Amazonas",
+        "id": 130290
+    },
+    {
+        "cidade": "Novo Airão",
+        "estado": "Amazonas",
+        "id": 130320
+    },
+    {
+        "cidade": "Parintins",
+        "estado": "Amazonas",
+        "id": 130340
+    },
+    {
+        "cidade": "Presidente Figueiredo",
+        "estado": "Amazonas",
+        "id": 130353
+    },
+    {
+        "cidade": "Rio Preto da Eva",
+        "estado": "Amazonas",
+        "id": 130356
+    },
+    {
+        "cidade": "Tabatinga",
+        "estado": "Amazonas",
+        "id": 130406
+    },
+    {
+        "cidade": "Tefé",
+        "estado": "Amazonas",
+        "id": 130420
+    },
+    {
+        "cidade": "Açailândia",
+        "estado": "Maranhão",
+        "id": 210005
+    },
+    {
+        "cidade": "Alcântara",
+        "estado": "Maranhão",
+        "id": 210020
+    },
+    {
+        "cidade": "Bacabal",
+        "estado": "Maranhão",
+        "id": 210120
+    },
+    {
+        "cidade": "Balsas",
+        "estado": "Maranhão",
+        "id": 210140
+    },
+    {
+        "cidade": "Barra do Corda",
+        "estado": "Maranhão",
+        "id": 210160
+    },
+    {
+        "cidade": "Buriticupu",
+        "estado": "Maranhão",
+        "id": 210232
+    },
+    {
+        "cidade": "Codó",
+        "estado": "Maranhão",
+        "id": 210330
+    },
+    {
+        "cidade": "Coroatá",
+        "estado": "Maranhão",
+        "id": 210360
+    },
+    {
+        "cidade": "Grajaú",
+        "estado": "Maranhão",
+        "id": 210480
+    },
+    {
+        "cidade": "Imperatriz",
+        "estado": "Maranhão",
+        "id": 210530
+    },
+    {
+        "cidade": "Itapecuru Mirim",
+        "estado": "Maranhão",
+        "id": 210540
+    },
+    {
+        "cidade": "Paço do Lumiar",
+        "estado": "Maranhão",
+        "id": 210750
+    },
+    {
+        "cidade": "Pinheiro",
+        "estado": "Maranhão",
+        "id": 210860
+    },
+    {
+        "cidade": "Raposa",
+        "estado": "Maranhão",
+        "id": 210945
+    },
+    {
+        "cidade": "Santa Inês",
+        "estado": "Maranhão",
+        "id": 210990
+    },
+    {
+        "cidade": "Santa Luzia",
+        "estado": "Maranhão",
+        "id": 211000
+    },
+    {
+        "cidade": "São José de Ribamar",
+        "estado": "Maranhão",
+        "id": 211120
+    },
+    {
+        "cidade": "São Luís",
+        "estado": "Maranhão",
+        "id": 211130
+    },
+    {
+        "cidade": "Vargem Grande",
+        "estado": "Maranhão",
+        "id": 211270
+    },
+    {
+        "cidade": "Viana",
+        "estado": "Maranhão",
+        "id": 211280
+    },
+    {
+        "cidade": "Zé Doca",
+        "estado": "Maranhão",
+        "id": 211400
+    },
+    {
+        "cidade": "Alta Floresta",
+        "estado": "Mato Grosso",
+        "id": 510025
+    },
+    {
+        "cidade": "Barão de Melgaço",
+        "estado": "Mato Grosso",
+        "id": 510160
+    },
+    {
+        "cidade": "Barra do Garças",
+        "estado": "Mato Grosso",
+        "id": 510180
+    },
+    {
+        "cidade": "Cáceres",
+        "estado": "Mato Grosso",
+        "id": 510250
+    },
+    {
+        "cidade": "Chapada dos Guimarães",
+        "estado": "Mato Grosso",
+        "id": 510300
+    },
+    {
+        "cidade": "Cuiabá",
+        "estado": "Mato Grosso",
+        "id": 510340
+    },
+    {
+        "cidade": "Jangada",
+        "estado": "Mato Grosso",
+        "id": 510490
+    },
+    {
+        "cidade": "Lucas do Rio Verde",
+        "estado": "Mato Grosso",
+        "id": 510525
+    },
+    {
+        "cidade": "Nossa Senhora do Livramento",
+        "estado": "Mato Grosso",
+        "id": 510610
+    },
+    {
+        "cidade": "Nova Brasilândia",
+        "estado": "Mato Grosso",
+        "id": 510620
+    },
+    {
+        "cidade": "Planalto da Serra",
+        "estado": "Mato Grosso",
+        "id": 510645
+    },
+    {
+        "cidade": "Poconé",
+        "estado": "Mato Grosso",
+        "id": 510650
+    },
+    {
+        "cidade": "Primavera do Leste",
+        "estado": "Mato Grosso",
+        "id": 510704
+    },
+    {
+        "cidade": "Rondonópolis",
+        "estado": "Mato Grosso",
+        "id": 510760
+    },
+    {
+        "cidade": "Rosário Oeste",
+        "estado": "Mato Grosso",
+        "id": 510770
+    },
+    {
+        "cidade": "Santo Antônio do Leverger",
+        "estado": "Mato Grosso",
+        "id": 510780
+    },
+    {
+        "cidade": "Sinop",
+        "estado": "Mato Grosso",
+        "id": 510790
+    },
+    {
+        "cidade": "Sorriso",
+        "estado": "Mato Grosso",
+        "id": 510792
+    },
+    {
+        "cidade": "Tangará da Serra",
+        "estado": "Mato Grosso",
+        "id": 510795
+    },
+    {
+        "cidade": "Várzea Grande",
+        "estado": "Mato Grosso",
+        "id": 510840
+    },
+    {
+        "cidade": "Abaetetuba",
+        "estado": "Pará",
+        "id": 150010
+    },
+    {
+        "cidade": "Acará",
+        "estado": "Pará",
+        "id": 150020
+    },
+    {
+        "cidade": "Alenquer",
+        "estado": "Pará",
+        "id": 150040
+    },
+    {
+        "cidade": "Altamira",
+        "estado": "Pará",
+        "id": 150060
+    },
+    {
+        "cidade": "Ananindeua",
+        "estado": "Pará",
+        "id": 150080
+    },
+    {
+        "cidade": "Barcarena",
+        "estado": "Pará",
+        "id": 150130
+    },
+    {
+        "cidade": "Belém",
+        "estado": "Pará",
+        "id": 150140
+    },
+    {
+        "cidade": "Benevides",
+        "estado": "Pará",
+        "id": 150150
+    },
+    {
+        "cidade": "Bragança",
+        "estado": "Pará",
+        "id": 150170
+    },
+    {
+        "cidade": "Breu Branco",
+        "estado": "Pará",
+        "id": 150178
+    },
+    {
+        "cidade": "Breves",
+        "estado": "Pará",
+        "id": 150180
+    },
+    {
+        "cidade": "Cametá",
+        "estado": "Pará",
+        "id": 150210
+    },
+    {
+        "cidade": "Capanema",
+        "estado": "Pará",
+        "id": 150220
+    },
+    {
+        "cidade": "Capitão Poço",
+        "estado": "Pará",
+        "id": 150230
+    },
+    {
+        "cidade": "Castanhal",
+        "estado": "Pará",
+        "id": 150240
+    },
+    {
+        "cidade": "Dom Eliseu",
+        "estado": "Pará",
+        "id": 150293
+    },
+    {
+        "cidade": "Igarapé-Miri",
+        "estado": "Pará",
+        "id": 150330
+    },
+    {
+        "cidade": "Ipixuna do Pará",
+        "estado": "Pará",
+        "id": 150345
+    },
+    {
+        "cidade": "Itaituba",
+        "estado": "Pará",
+        "id": 150360
+    },
+    {
+        "cidade": "Itupiranga",
+        "estado": "Pará",
+        "id": 150370
+    },
+    {
+        "cidade": "Jacundá",
+        "estado": "Pará",
+        "id": 150380
+    },
+    {
+        "cidade": "Juruti",
+        "estado": "Pará",
+        "id": 150390
+    },
+    {
+        "cidade": "Marabá",
+        "estado": "Pará",
+        "id": 150420
+    },
+    {
+        "cidade": "Marituba",
+        "estado": "Pará",
+        "id": 150442
+    },
+    {
+        "cidade": "Moju",
+        "estado": "Pará",
+        "id": 150470
+    },
+    {
+        "cidade": "Monte Alegre",
+        "estado": "Pará",
+        "id": 150480
+    },
+    {
+        "cidade": "Novo Repartimento",
+        "estado": "Pará",
+        "id": 150506
+    },
+    {
+        "cidade": "Óbidos",
+        "estado": "Pará",
+        "id": 150510
+    },
+    {
+        "cidade": "Oriximiná",
+        "estado": "Pará",
+        "id": 150530
+    },
+    {
+        "cidade": "Paragominas",
+        "estado": "Pará",
+        "id": 150550
+    },
+    {
+        "cidade": "Parauapebas",
+        "estado": "Pará",
+        "id": 150553
+    },
+    {
+        "cidade": "Portel",
+        "estado": "Pará",
+        "id": 150580
+    },
+    {
+        "cidade": "Redenção",
+        "estado": "Pará",
+        "id": 150613
+    },
+    {
+        "cidade": "Rondon do Pará",
+        "estado": "Pará",
+        "id": 150618
+    },
+    {
+        "cidade": "Santa Bárbara do Pará",
+        "estado": "Pará",
+        "id": 150635
+    },
+    {
+        "cidade": "Santa Izabel do Pará",
+        "estado": "Pará",
+        "id": 150650
+    },
+    {
+        "cidade": "Santana do Araguaia",
+        "estado": "Pará",
+        "id": 150670
+    },
+    {
+        "cidade": "Santarém",
+        "estado": "Pará",
+        "id": 150680
+    },
+    {
+        "cidade": "São Félix do Xingu",
+        "estado": "Pará",
+        "id": 150730
+    },
+    {
+        "cidade": "São Miguel do Guamá",
+        "estado": "Pará",
+        "id": 150760
+    },
+    {
+        "cidade": "Tailândia",
+        "estado": "Pará",
+        "id": 150795
+    },
+    {
+        "cidade": "Tomé-Açu",
+        "estado": "Pará",
+        "id": 150800
+    },
+    {
+        "cidade": "Tucuruí",
+        "estado": "Pará",
+        "id": 150810
+    },
+    {
+        "cidade": "Ulianópolis",
+        "estado": "Pará",
+        "id": 150812
+    },
+    {
+        "cidade": "Vigia",
+        "estado": "Pará",
+        "id": 150820
+    },
+    {
+        "cidade": "Viseu",
+        "estado": "Pará",
+        "id": 150830
+    },
+    {
+        "cidade": "Ariquemes",
+        "estado": "Rondônia",
+        "id": 110002
+    },
+    {
+        "cidade": "Cacoal",
+        "estado": "Rondônia",
+        "id": 110004
+    },
+    {
+        "cidade": "Jaru",
+        "estado": "Rondônia",
+        "id": 110011
+    },
+    {
+        "cidade": "Ji-Paraná",
+        "estado": "Rondônia",
+        "id": 110012
+    },
+    {
+        "cidade": "Porto Velho",
+        "estado": "Rondônia",
+        "id": 110020
+    },
+    {
+        "cidade": "Rolim de Moura",
+        "estado": "Rondônia",
+        "id": 110028
+    },
+    {
+        "cidade": "Vilhena",
+        "estado": "Rondônia",
+        "id": 110030
+    },
+    {
+        "cidade": "Boa Vista",
+        "estado": "Roraima",
+        "id": 140010
+    },
+    {
+        "cidade": "Araguaína",
+        "estado": "Tocantins",
+        "id": 170210
+    },
+    {
+        "cidade": "Gurupi",
+        "estado": "Tocantins",
+        "id": 170950
+    },
+    {
+        "cidade": "Palmas",
+        "estado": "Tocantins",
+        "id": 172100
+    },
+    {
+        "cidade": "Paraíso do Tocantins",
+        "estado": "Tocantins",
+        "id": 171610
+    },
+    {
+        "cidade": "Porto Nacional",
+        "estado": "Tocantins",
+        "id": 171820
+    }
+]
