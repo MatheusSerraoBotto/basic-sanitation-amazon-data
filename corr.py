@@ -5,7 +5,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 
-df = pd.read_csv('cities7.csv')
+df = pd.read_csv('cities8.csv')
 
 df = df[df['Amazonia'] == 'Sim']
 print(df.columns)
@@ -21,9 +21,9 @@ plt.title("Matriz de Correlação")
 plt.show()
 
 # convertendo a matriz de correlação em um DataFrame
-# corr_df = pd.DataFrame(corr_matrix)
+corr_df = pd.DataFrame(corr_matrix)
 # salvar a matriz de correlação em um arquivo CSV
-# corr_df.to_csv('correlacao.csv', index=True)
+corr_df.to_csv('correlacao.csv', index=True)
 
 # profile = ProfileReport(df, title="Análise de Correlação")
 # profile.to_file("correlacao.html")  # Relatório interativo
